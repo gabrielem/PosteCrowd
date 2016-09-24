@@ -1,2 +1,2 @@
 call(phonenumber, { "network":"SMS" });
-say("what about coffee?");
+say(msg + " " + name);
